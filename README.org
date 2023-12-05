@@ -2,9 +2,8 @@
 
 myweb - simple web server written in Common Lisp
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/troydm/myweb.git   |
-| commit  | 5067add  |
-| systems | myweb |
-|---------+-------------------------------------------|
-
+|---------+-----------------------------------------|
+| source  | git:https://github.com/troydm/myweb.git |
+| commit  | 9c47ff2                                 |
+| systems | myweb                                   |
+|---------+-----------------------------------------|
